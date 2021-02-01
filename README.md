@@ -9,4 +9,5 @@ summary : the note of ECMAScript6 primer
 ## catalog
 
 * iterator
+* Destructing
 
